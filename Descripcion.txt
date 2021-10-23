@@ -1,0 +1,22 @@
+INTRODUCCION
+
+las redes neuronales son sistemas de inteligencia artificial muy utilizados
+en la actualidad, estos aumentan su complejidad al aumentar la dificultad del
+problema a resolver con ello aumenta la dificultad de diseño, por lo que se
+requiere una gran experiencia en esta area.
+
+El objetivo de este proyecto es la creacion de un modelo de red neuronal auto-
+gestionable con las siguientes caracteristicas:
+- gestionar el numero de neuronas trabajando
+- gestionar las conexiones entre neuronales
+- gestionar el aprendisaje
+- descentralizado
+
+Version 1.0
+
+los items de esta version del proyecto son:
+- desarrollar un escenario basico para el aprendisaje supervisado
+- identificar posibles metricas y variables a añadir, quitar o modificar
+- identificar posibles modelos utiles
+- simular modelos y medir su aprendisaje
+- constrastar modelos inclutendo los existente
